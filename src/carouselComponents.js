@@ -1,4 +1,7 @@
 import Carousel from "react-bootstrap/carousel"
+import Stn from "./Images/alex.jpg"
+import tea from "./Images/drums.jpg"
+import fit from "./Images/speaker.jpg"
 
 const CarouselComponent = () => {
     return ( 
@@ -6,7 +9,7 @@ const CarouselComponent = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="alex.jpg"
+          src={Stn}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -17,7 +20,7 @@ const CarouselComponent = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src={tea}
           alt="Second slide"
         />
 
@@ -29,7 +32,7 @@ const CarouselComponent = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src={fit}
           alt="Third slide"
         />
 
