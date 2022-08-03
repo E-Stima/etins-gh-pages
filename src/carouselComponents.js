@@ -5,40 +5,40 @@ import fit from "./Images/speaker.jpg"
 
 const CarouselComponent = () => {
     return ( 
-        <Carousel>
-      <Carousel.Item>
+        <Carousel  className="caru">
+      <Carousel.Item className="slider">
         <img
           className="d-block w-100"
           src={Stn}
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>This is My.</p>
+          <h3 className="slidertext">First slide label</h3>
+          <p className="slidertext">This is My.</p>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item>
+      <Carousel.Item className="slider">
         <img
           className="d-block w-100"
           src={tea}
           alt="Second slide"
         />
 
-        <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <Carousel.Caption >
+          <h3 className="slidertext">Second slide label</h3>
+          <p className="slidertext">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item>
+      <Carousel.Item className="slider">
         <img
           className="d-block w-100"
           src={fit}
           alt="Third slide"
         />
 
-        <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
+        <Carousel.Caption >
+          <h3 className="slidertext">Third slide label</h3>
+          <p className="slidertext">
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>
         </Carousel.Caption>

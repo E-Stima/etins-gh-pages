@@ -10,7 +10,7 @@
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 100%;
+  /*max-width: 100%;*/
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
 }
@@ -37,7 +37,16 @@
 .navHead{
   display:inline
 }
+.darkHeading{
+  color: #ffffff
+}
 
-.Carousel.Caption{
-    color: #ffff;
+.slider{
+  max-height: 70vh;
+}
+.slidertext{
+  color: #ffffff;
+}
+.caru{
+  margin-top: -93px;
 }

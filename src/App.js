@@ -1,6 +1,8 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CarouselComponent from './carouselComponents';
+import FooterComponent from './FooterComponent';
+import HomeComponent from './home';
 //import logo from './logo.svg';
 import NavbarComponent from './navbarComponent';
 
@@ -14,6 +16,8 @@ function App() {
        </header>
        <body>
         <CarouselComponent/>
+        <HomeComponent/>
+        <FooterComponent/>
        </body>
     </div>
     
