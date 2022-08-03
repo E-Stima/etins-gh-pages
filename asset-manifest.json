@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/etins-gh-pages/static/css/main.f130f5c3.css",
-    "main.js": "/etins-gh-pages/static/js/main.8a235a20.js",
-    "static/js/787.7d6d6079.chunk.js": "/etins-gh-pages/static/js/787.7d6d6079.chunk.js",
-    "static/media/logo.svg": "/etins-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/etins-gh-pages/index.html",
-    "main.f130f5c3.css.map": "/etins-gh-pages/static/css/main.f130f5c3.css.map",
-    "main.8a235a20.js.map": "/etins-gh-pages/static/js/main.8a235a20.js.map",
-    "787.7d6d6079.chunk.js.map": "/etins-gh-pages/static/js/787.7d6d6079.chunk.js.map"
+    "main.css": "/React/static/css/main.ac0e4592.css",
+    "main.js": "/React/static/js/main.8fc5fb6b.js",
+    "static/js/787.7d6d6079.chunk.js": "/React/static/js/787.7d6d6079.chunk.js",
+    "static/media/drums.jpg": "/React/static/media/drums.6adf39b67c7e4292a9ea.jpg",
+    "static/media/alex.jpg": "/React/static/media/alex.21ffeb072f8ffbd90782.jpg",
+    "static/media/speaker.jpg": "/React/static/media/speaker.da254581506e0344ba75.jpg",
+    "static/media/ESM-500-610.png": "/React/static/media/ESM-500-610.94da674d99f91b6a97c7.png",
+    "index.html": "/React/index.html",
+    "main.ac0e4592.css.map": "/React/static/css/main.ac0e4592.css.map",
+    "main.8fc5fb6b.js.map": "/React/static/js/main.8fc5fb6b.js.map",
+    "787.7d6d6079.chunk.js.map": "/React/static/js/787.7d6d6079.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f130f5c3.css",
-    "static/js/main.8a235a20.js"
+    "static/css/main.ac0e4592.css",
+    "static/js/main.8fc5fb6b.js"
   ]
 }
